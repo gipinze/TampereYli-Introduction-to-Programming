@@ -1,10 +1,3 @@
-"""
-The first program of Programming 01 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-
-"""
-
 # Reading the student benefit.  The prompt is ended with whitespace
 # so that the user input will not appear "touching" the colon.
 
