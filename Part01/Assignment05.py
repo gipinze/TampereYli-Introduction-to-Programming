@@ -1,9 +1,3 @@
-"""
-The first program of Programming 01 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-
-"""
 
 # A program that determines user's age group (if-statement).
 def main():
