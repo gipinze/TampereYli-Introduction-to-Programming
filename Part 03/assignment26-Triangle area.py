@@ -1,12 +1,3 @@
-"""
-COMP.CS.100 Programming 1.
-Programming 01 - 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-Solution 3.8.1 - Printing a triangle's area
-"""
-
-
 from math import sqrt
 
 """ Import sqtr from the math library"""
