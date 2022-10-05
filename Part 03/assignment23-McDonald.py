@@ -1,11 +1,3 @@
-"""
-COMP.CS.100 Programming 1.
-Programming 01 - 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-Solution 3.6.1 - The song: "Old MacDonald"
-"""
-
 def print_verse(animal, onomatopoeia):
     """
     Prints the parameters for the song based on the animals given in the example doc
