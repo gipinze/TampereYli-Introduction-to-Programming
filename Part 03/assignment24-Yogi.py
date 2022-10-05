@@ -1,11 +1,3 @@
-"""
-COMP.CS.100 Programming 1.
-Programming 01 - 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-Solution 3.6.2 - The song "Yogi the bear"
-"""
-
 def verse(verse, character):
     
     """ Prints the song verses"""
