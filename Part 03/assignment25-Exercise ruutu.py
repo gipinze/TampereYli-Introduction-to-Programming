@@ -1,13 +1,3 @@
-"""
-COMP.CS.100 Programming 1.
-Programming 01 - 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-Solution 3.6.3 - Printing a box
-"""
-
-
-
 def print_box(width, height, mark):
     
     """   prints a box with the expected dimensions """
