@@ -1,11 +1,3 @@
-"""
-The first program of Programming 01 2022
-Name: Gianmarco Ipinze Tutuianu <gianmarco.ipinzetutuianu@tuni.fi>
-StudentId: 151456655
-
-"""
-
-
 def main():
     
     friday = 0
